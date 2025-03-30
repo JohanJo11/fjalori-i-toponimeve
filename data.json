@@ -1,0 +1,794 @@
+{
+    "toponyms": {
+      "A": [
+        {
+          "name": "Arat e Çakos",
+          "type": "(Antroponim)",
+          "description": "Quhet kështu, sepse i referohet një vendi me ara që lidhet me këtë person.",
+          "location": "Lumalas"
+        },
+        {
+          "name": "Ara e Kodhelit",
+          "type": "(Antroponim)",
+          "description": "Ndodhet në lindje te fshatit. Përcakton tipin e terrenit, duke identifikuar pronarin e arës.",
+          "location": "Vashtëmi"
+        },
+        {
+            "name": "Arra e Vakëfit",
+            "type": "(Toponim natyror)",
+            "description": "Quhet kështu, sepse kanë qenë në pronësi të kishave dhe janë dhuruar nga persona që janë larguar nga fshati",
+            "location": "Polenë"
+          },
+          {
+            "name": "Artistikja",
+            "type": "(Antroponim)",
+            "description": "Ishte një ndërmarrje ku prodhoheshin për vite me rradhë produkte të ndryshme si qeramikë, qëndisje, punime bakri, piktura,etj.",
+            "location": "Korçë"
+          }
+
+      ],
+      "B": [
+        {
+          "name": "Bahça e Beçkës",
+          "type": "(Antroponim)",
+          "description": "Pjesë toke që zotërohej vite përpara nga një banor i fshatit që quhej Beçkë.",
+          "location": "Skënderbegas"
+        },
+
+        {
+          "name": "Bahçja e Halilit",
+          "type": "(Antroponim)",
+          "description": "Bahçja e Halilit quhet e tillë sepse dikur ka qenë në pronësinë e Halilit.Tani Halili nuk jeton më, por bahçja ka mbetur dhe kujdesohet nga banorët që e kanë blerë. ",
+          "location": "Sovjan"
+        },
+
+        {
+            "name": "Bashta e Ushtrisë",
+            "type": "(Antroponim)",
+            "description": "Zonë e quajtur kështu sipas vendasve pasi këtu ishin të vendosur kazermat ushtarake.Emri lidhet me një truall që i përkiste ushtrisë ose përdorej për aktivitetet dhe stërvitjet e saj.",
+            "location": "Korçë"
+          },
+
+          {
+            "name": "Bashta Themistokli",
+            "type": "(Toponim natyror)",
+            "description": "Një shesh i gjelbëruar ku ndodhet busti i Themistokli Gërmenjit.",
+            "location": "Korçë"
+          },
+          {
+            "name": "Birra Korça",
+            "type": "(Fitotoponim)",
+            "description": "Një nga fabrikat më të vjetra dhe më të njohura të birrës në Shqipëri. Kjo fabrikë,  është një pikë referimi e qytetit. Emërtimi 'Nga Birra' është një term i përbashkët që banorët e përdorin për t'iu referuar zonës përreth fabrikës ose pikave të njohura që lidhen me të.",
+            "location": "Korçë"
+          },
+          {
+            "name": "Boja e Kuqe ",
+            "type": "(Oronim)",
+            "description": "Ndodhet në rrugën kryesore që lidh Lozhanin me Voskopojën, toponimi është përkthyer nga gjuha italiane, emërtimi origjinal quhet “Colore Rosso’’. Është emërtuar kështu,sepse dheu është i kuq dhe gurë të zinj,që simbolizojnë gjakun e derdhur në luftë",
+            "location": "Maliq"
+          },
+          {
+            "name": "Bonboneria ",
+            "type": "(Toponim agrar)",
+            "description": "Një dyqan brenda në qytet  ku ende shiten bonbone dhe ëmbëlsira. ",
+            "location": "Korçë"
+          },
+          {
+            "name": "Belevica ",
+            "type": "(Toponim natyror)",
+            "description": "Vjen nga gjuha sllave. Mendohet se ka qënë e mbjellë me rrush të bardhë. ",
+            "location": "Polenë"
+          },
+          {
+            "name": "Bregu i Shën e Premtes",
+            "type": "(Hidronim)",
+            "description": "Ka marrë emrin nga kisha me të njëjtin emër e cila ndodhet aty pranë.  ",
+            "location": "Polenë"
+          },
+          {
+            "name": "Bunkieret Sovjan",
+            "type": "(Fitonim)",
+            "description": "Emërtohen kështu strukturat që kanë shërbyer si strehë për ushtarët gjatë luftës nacionale çlirimtare.",
+            "location": "Sovjan"
+          },
+          {
+            "name": "Bashta e Sanijes",
+            "type": "(Toponim historik)",
+            "description": "Është një lulishte e cila ka marrë këtë emër në nder të motrës së mbretit Zog e cila quhej Sanije.",
+            "location": "Korçë"
+          },
+          {
+            "name": "Burimi i Laçes",
+            "type": "(Antroponim)",
+            "description": "Ka marrë emrin nga një burim të cilin është ndërtuar nga një person me emrin Laçe. ",
+            "location": "Voskop"
+          }
+
+      ],
+      "Ç": [
+        {
+          "name": "Çernovoda",
+          "type": "(Hidronim)",
+          "description": "E ka marrë emrin nga gjuha sllave. Do të thotë uji i zi.",
+          "location": "Polenë"
+        },
+        {
+            "name": "Çezma e Amzës",
+            "type": "(Antroponim)",
+            "description": "Kjo çezmë ka marrë këtë emërtim nga personi që e krijoi,Amza ishte një tregtar. ",
+            "location": "Korçë"
+          },
+          {
+            "name": "Çezma e Cinës",
+            "type": "(Antroponim,Hidronim)",
+            "description": "Tregon një pronë ,(një pajisje që kontrollon rrjedhën e ujit) dhe identifikon  pronarin e kësaj prone.",
+            "location": "Moglicë"
+          },
+          {
+            "name": "Çezma e derrave",
+            "type": "(Toponim popullor)",
+            "description": "Në kohën e kooperativës ishte ndërtuar stalla e derrave dhe kjo çezmë ndodhej po aty.",
+            "location": "Bulgarec"
+          },
+          {
+            "name": "Çezma e Madhe",
+            "type": "(Hidronim)",
+            "description": "Është një nga çezmat më të mëdha të fshatit,nxjerr sasi uji më shumë se çezmat e tjera.",
+            "location": "Voskop"
+          },
+          {
+            "name": "Çezma e parë",
+            "type": "(Hidronim)",
+            "description": "Burimi i parë i ujit në zonën e Sovjanit ku të gjithë banorët furnizoheshin me ujë për të pirë dhe për nevojat e tyre.",
+            "location": "Sovjan"
+          },
+          {
+            "name": "Çezma e Radenecit",
+            "type": "(Hidronim)",
+            "description": "Kjo çezmë quhet kështu, sepse ndodhet në zonën e quajtur Radenec. Emri lidhet me një toponim të vjetër, por mbase edhe  me një familje që ka jetuar aty më parë. ",
+            "location": "Korçë"
+          },
+          {
+            "name": "Çezma e Vashtëmisë",
+            "type": "(Hidronim)",
+            "description": "Çezmë e krijuar në periudhën e Komunizmit. Ndodhet në rrugën që të con drejt Vashtëmisë, prandaj ka marrë këtë emër.",
+            "location": "Bulgarec"
+          },
+          {
+            "name": "Çezma e Xhezarit",
+            "type": "(Antroponim,Hidronim)",
+            "description": "Një çezmë që ndodhet Brenda në fshat, por nuk dihet nga e ka marrë këtë emër.",
+            "location": "Sovjan"
+          }
+      ],
+      "D": [
+        {
+          "name": "Dritat e verdha",
+          "type": "(Oronim)",
+          "description": "Një rrugë në qytet e cila ishte e vetmja që kishte drita të verdha.",
+          "location": "Korçë"
+        },
+        {
+          "name": "Dyqani i Gëlqeres",
+          "type": "(Oikonim)",
+          "description": "Dikur në këtë vend shitej dhe prodhohej gëlqere, një material ndërtimor i përdorur gjerësisht në të kaluarën.",
+          "location": "Korçë"
+        },
+        {
+            "name": "Dyqani i Rakos",
+            "type": "(Antroponim)",
+            "description": "Emërtim i marrë nga pronari i dyqanit i cili ishte një nga tregtarët më të njohur të qytetit,prandaj dyqani i tij identifikon të gjithë zonën përreth.",
+            "location": "Korçë"
+          },
+          {
+            "name": " Dyqanet e gurtë",
+            "type": "(Oikonim)",
+            "description": "Janë dyqane që dikur ishin shumë funksionale dhe pika orientimi në  zonat përreth saj. Dyqanet ishin të llojeve të ndryshme si ushqimore, furrë buke, bulmet, kasap dhe një bar kafe.",
+            "location": "Korçë"
+          }
+      ],
+  
+      "DH": [
+        {
+          "name": "Dheri i bardhë",
+          "type": "(Toponim natyror)",
+          "description": "Sipërfaqe toke me dhe' të bardhë. Mendohet se emri ka ardhur nga prekja e tokë nga uji i lumenjve.",
+          "location": "Voskop"
+        },
+        {
+            "name": "Dheri i kuq",
+            "type": "(Toponim natyror)",
+            "description": "Sipërfaqe toke me dhe’ të kuq.Mendohet se dherin e kuq e kanë sjellë lumenjtë.",
+            "location": "Voskop"
+          }
+      ],
+  
+      "F": [
+        {
+          "name": "Fusha e druve",
+          "type": "(Oikonim)",
+          "description": "Para viteve 90' ishte zona ku grumbulloheshin të gjitha drutë e zonës së Korçës.",
+          "location": "Korçë"
+        },
+        {
+            "name": "Fusha e Provadit",
+            "type": "(Antroponim)",
+            "description": "Fushë ku rriten lule të bardha.",
+            "location": "Lavdar"
+          }
+      ],
+  
+      "G": [
+        {
+          "name": "Gorrovec",
+          "type": "(Hidronim)",
+          "description": "Gorrovec njihet si çezma dhe burimi i ujit të pijshëm, ku pothuajse shumica e banorëve të Sovjanit vijnë e mbushin ujë.",
+          "location": "Sovjan"
+        },
+        {
+            "name": "Gropa",
+            "type": "(Oikonim)",
+            "description": "Lidhet me zonën e Radenecit dhe me një formacion natyror si një shpellë apo një gropë. Kjo ka qenë një vend i njohur për banorët, dhe i përdorur për qëllim specifik si mbledhja e ujit dhe depozitimi i materialeve.",
+            "location": "Korçë"
+          },
+          {
+            "name": "Guri i Novakut",
+            "type": "(Antroponim)",
+            "description": "Një ushtarak nga Austro-Hungaria i cili ka bërë hartën skicë të fshatit Polenë mbi këtë gur dhe për nder të tij i është vendosur mbiemri i ushtarakut.Ndodhet afër kufirit me fshatin  Lavdar. ",
+            "location": "Polenë"
+          },
+          {
+            "name": "Guri i Prerë",
+            "type": "(Oronim)",
+            "description": "Ndodhet në perëndim të zonës tregon objektin (gurin) i cili përcaktohet nga cilësia e tij, që është i prerë.",
+            "location": "Moglicë"
+          },
+          {
+            "name": "Guri me Gjak",
+            "type": "(Toponim historik)",
+            "description": "Gur me shenja gjaku nga një histori tragjike. ",
+            "location": "Lavdar"
+          },
+          {
+            "name": "Gorica e Todi Cjankos",
+            "type": "(Antroponim)",
+            "description": "Quhet kështu pasi pema e goricës është mbjellë nga Todi Cjankoja Ndodhet afër hyrjes së fshatit.",
+            "location": "Polenë"
+          },
+          {
+            "name": "Guri i Shpuar",
+            "type": "(Toponim historik)",
+            "description": "Njihet nga banorët si vend i shenjtë.",
+            "location": "Lavdar"
+          }
+      ],
+  
+      "K": [
+      {
+        "name": "Kristec",
+        "type": "(Toponim Historik)",
+        "description": "Nga sllavishtja do të thotë kryq. Emërohet nga banorët si vend i shenjtë.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Kanali vjetër",
+        "type": "(Hidronim)",
+        "description": "Një kanal i vjetër që ka shërbyer për vaditje.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Kashen",
+        "type": "(Toponim Historik)",
+        "description": "Vjen nga sllavishtja dhe do të thotë kashtë, quhet kështu pasi zona ishte e mbuluar me kashtë.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Kazerma e Sovjanit",
+        "type": "(Oikonim)",
+        "description": "Një ndërtesë që ka shërbyer si mbrojtje për ushtarët, për stërvitjet që ata bënin dhe për të fshehur armët e tyre.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Këpuca",
+        "type": "(Toponim)",
+        "description": "Fabrika e ka marë emrin nga këpucët që prodhoheshin.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Kisha e Shën Marisë",
+        "type": "(Toponim Fetar)",
+        "description": "Një kishë e shenjtë për banorët e Sovjanit.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Kolazi",
+        "type": "(Hidronim)",
+        "description": "Vendi ku ishte vendosur një çezmë në fshat.",
+        "location": "Lavdar"
+      },
+      {
+        "name": "Konizma",
+        "type": "(Oikonim)",
+        "description": "Në këtë zonën ndodhet një kishë e vogël me këtë emër dhe prej saj ka marrë emrin e gjithë zona.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Kroi i Bubës",
+        "type": "(Hidronim)",
+        "description": "Çezma më e madhe e fshatit me ujë të pastër.",
+        "location": "Lavdar"
+      },
+      {
+        "name": "Kroi i Dashit",
+        "type": "(Hidronim)",
+        "description": "Vënd ku bëhen kurban deshtë.",
+        "location": "Lavdar"
+      },
+      {
+        "name": "Kalaja ilire",
+        "type": "(Toponim Historik)",
+        "description": "Quhet kështu sepse i referohet një fortifikimi të lashtë të ndërtuar nga Ilirët.",
+        "location": "Lumalas"
+      },
+      {
+        "name": "Kroi i Komandantit",
+        "type": "(Hidronim)",
+        "description": "Ndodhet në rrugën kryesore që lidh Lozhanin me Voskopojën. Toponimi është emërtuar kështu,sepse këtë krua e ka ndërtuar me duart e tij një komandant.",
+        "location": "Maliq"
+      },
+      {
+        "name": "Kroi i Nakes",
+        "type": "(Antroponim)",
+        "description": "Ndodhej në shtëpinë e tij Prandaj kroi mori emrin e të zotit të shtëpisë.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Kroi i Shtirë",
+        "type": "(Hidronim)",
+        "description": "Krua ku uji shtiret nga një vend tek një tjetër.",
+        "location": "Lavdar"
+      },
+      {
+        "name": "Kisha e vjetër",
+        "type": "(Toponim Historik)",
+        "description": "Është quajtur kështu sepse ka ekzistuar që në fillimet e krijimit të fshatit Bulgarec, por u shkatërrua gjatë periudhës së komunizmit.",
+        "location": "Bulgarec"
+      },
+      {
+        "name": "Kryqi",
+        "type": "(Toponim Historik)",
+        "description": "I quajtur kështu, sepse mbi kodrat e fshatit ndodhet kryqi.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Kulmaku",
+        "type": "(Hidronim)",
+        "description": "Ndodhet në zonën më fushore dhe quhet kështu sepse përfaqëson një zonë të lagësht,të qullët,tip përroi rrethuar me shkurre,dikur ka qenë edhe çezmë.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Kopshti i Lakrave",
+        "type": "(Toponim Natyror)",
+        "description": "Ishte tokë e përshatshme për mbjelljen e lakrave. Pjesa më e madhe e fshatit mbillnin tek ky kopsht.",
+        "location": "Skënderbegas"
+      },
+      {
+        "name": "Kulla e Hirit",
+        "type": "(Oikonim)",
+        "description": "Dikur ka qenë një kullë e cila kishte ngjyrë hiri.",
+        "location": "Korçë"
+      }
+    ],
+    "L": [
+      {
+        "name": "Lëndina e lotëve",
+        "type": "(Apelativ)",
+        "description": "Kjo zonë ka marrë këtë emërtim nga qytetarët korçarë për faktin se në periudhën kur qyteti ishte i banuar nga vetëm treqind familje,kryefamiljarët largoheshin në emigrim (kurbet),dhe gratë e familjes vajtonin për ta pikërisht në këtë zonë të qytetit. Nga lotët që derdheshin në këtë lëndinë,ajo mori emrin \"Lëndina e lotëve\".",
+        "location": "Korçë"
+      },
+      {
+        "name": "Lisi i Provimit",
+        "type": "(Fitonim)",
+        "description": "Nën hijen e këtij lisi të moçëm një nga mësuesit e fshatit i çonte nxënësit në fund të vitit shkollor kur atyre ju duhej të jepnin provimet e fundit. Në natyrë dhe në stinën e pranverës nxënësit ndiheshin më mire.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Luadhi i Aliut",
+        "type": "(Antroponim)",
+        "description": "Quhet kështu sepse i përket një personi të quajtur Ali.",
+        "location": "Lumalas"
+      },
+      {
+        "name": "Luadhi i Gjelit",
+        "type": "(Faunotoponim)",
+        "description": "Përdorimi i \"Gjelit\" mund të jetë figurativ ose të tregojë ndonjë lidhje me këtë shpend.",
+        "location": "Lumalas"
+      },
+      {
+        "name": "Luadhi i Hasanit",
+        "type": "(Antroponim)",
+        "description": "Quhet kështu sepse i përket një personi të quajtur Hasan.",
+        "location": "Lumalas"
+      },
+      {
+        "name": "Luadhi i Ibraimit",
+        "type": "(Antroponim)",
+        "description": "Quhet kështu sepse i përket një personi të quajtur Ibrahim.",
+        "location": "Lumalas"
+      },
+      {
+        "name": "Lëmi i Vanit",
+        "type": "(Antroponim)",
+        "description": "Ky toponim lidhet me këtë vend sepse atje pastrohej gruri. I është vendosur ai emër nga banorët e asaj lagjjeje sepse Vani Cico Kosturi ishte pronari i saj.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Leshpunuesja",
+        "type": "(Oikonim)",
+        "description": "Vend ku prodhoheshin veshje të ndryshme.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Lumi i Frashërit",
+        "type": "(Antroponim)",
+        "description": "Shkonin lumenjtë gjithmonë në tokë pa u bërë koperativa.",
+        "location": "Voskop"
+      },
+      {
+        "name": "Luadhi i Kosës",
+        "type": "(Toponim Ekonomik)",
+        "description": "Quhet kështu sepse \"Kosa\" mund të tregojë vendin ku kositet bari ose mjetin e kositjes.",
+        "location": "Lumalas"
+      }
+    ],
+    "LL": [
+      {
+        "name": "Llazinjë",
+        "type": "(Oronim)",
+        "description": "E ka marrë emrin nga drurët e ndryshëm që ndodhen aty. Ndodhet pranë Malit të Orenit.",
+        "location": "Polenë"
+      }
+    ],
+    "M": [
+      {
+        "name": "Mahalla e Kaurëve",
+        "type": "(Antroponim)",
+        "description": "Quhet kështu sepse tregon se në këtë lagje banon një komunitet i krishterë, pasi fjala \"kaur\" është përdorur historikisht në menyrë popullore nga myslimanët për t'iu referuar të krishterëve.",
+        "location": "Bulgarec"
+      },
+      {
+        "name": "Mahalla e Kripës",
+        "type": "(Oikonim)",
+        "description": "Quhet kështu sepse lidhet me varfërinë e banorëve, që jetonin në kushte të vështira duke u quajtur \"të kripur\" si simbol i varfërisë.",
+        "location": "Bulgarec"
+      },
+      {
+        "name": "Magazina popullore (MAPO)",
+        "type": "(Oikonim)",
+        "description": "Magazina ku grumbulloheshin mallra dhe produkte të ndryshme, toponim që lidhet me sistemin shoqëror.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Maja e Gjatë",
+        "type": "(Oronim)",
+        "description": "E ka marrë emrin nga forma e malit e cila duket si një majë e gjatë.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Mërize",
+        "type": "(Toponim Natyror)",
+        "description": "Toka ku pushonin blegtoria.",
+        "location": "Lavdar"
+      },
+      {
+        "name": "Mitropolia",
+        "type": "(Toponim Fetar)",
+        "description": "Zona e quajtur \"Mitropolia\" në Korçë lidhet me praninë e Mitropolisë Ortodokse.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Mulliri i vjetër",
+        "type": "(Toponim Historik)",
+        "description": "Një makinë tradicionale që është përdorur për bluarjen e grurit ose materialeve të tjera, shpesh e ndërtuar nga gurë dhe mekanizma të vjetër, që i shërbenin një komuniteti për përpunimin e drithërave.",
+        "location": "Bulgarec"
+      }
+    ],
+    "O": [
+      {
+        "name": "Ormanet",
+        "type": "(Toponim Natyror)",
+        "description": "Vendndodhja e tyre ishte në Orman, u shpyllëzuan dhe u bënë ara për tokë buke.",
+        "location": "Voskop"
+      }
+    ],
+    "P": [
+      {
+        "name": "Pallati i kinezëve",
+        "type": "(Antroponim)",
+        "description": "Pallate të ndërtuara nga arkitektë kinezë në Korçë gjatë periudhës të realizmit socialist.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Përroi i Kortanisës",
+        "type": "(Hidronim)",
+        "description": "Përroi ka marrë emrin \"Kortanisë\" nga afërsia që kishte me shtëpinë e një gruaje që quhej Kortane. Përroi përdorej për larjen e teshave dhe rrobave të tjera.",
+        "location": "Skënderbegas"
+      },
+      {
+        "name": "Pazari i Biçikletave",
+        "type": "(Oikonim)",
+        "description": "Ndodhej mes rrugës \"Pandi Cifligu\" dhe \"28 Nëntori\", e cila ishte një zonë ku shiteshin, riparoheshin biçikleta të llojeve të ndryshme për vite me rradhë.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Pazari i Vjetër i Korçës",
+        "type": "(Toponim Antonimik)",
+        "description": "Quhet kështu sepse ka qenë qëndra më e hershme tregtare e qytetit, dhe ruan ende emrin që i është dhënë në periudhat e mëparshme historike. Pazari ka shërbyer si një pikë kyçe për tregtinë në Korçë dhe rajonet përreth,kur Korça ishte një qëndër e rëndësishme ekonomike në Ballkan.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Pelivor",
+        "type": "(Toponim Historik)",
+        "description": "E ka marrë emrin nga forma e malit e cila duket si një majë e gjatë.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Peshorja",
+        "type": "(Toponim Historik)",
+        "description": "Një peshore që ka shërbyer si matës për prodhimet dhe mjete të rënda. Sot është vetëm një hapësirë fushore, por ka marrë këtë emër sepse dikur në kohën e komunizmit aty ishte vendosur peshorja e madhe.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Pesëdhjetë lekëshi",
+        "type": "(Oikonim)",
+        "description": "Gjendej aty ku tani ndodhet parkingu i autobusave dhe shërbimi që ato ofronin për transport pasagjerësh paguhej me pesëdhjetë lekë.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Pesë Dyqanet",
+        "type": "(Oikonim)",
+        "description": "Quhet edhe sot godina e rrënuar. Kjo ndërtesë kishte pesë dyqane të cilat ofronin produkte të ndryshme.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Plepat e Smailit",
+        "type": "(Fitonim)(Antroponim)",
+        "description": "Plepat e Smailit janë në perëndim të Sovjanit dhe kanë marrë emrin e Smailit, një tregëtar i cili punon në fushë dhe ka mbjellë këta plepa.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Polenkat",
+        "type": "(Toponim natyror)",
+        "description": "Është fusha nga e cila e ka marrë emrin fshati Polenë.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Policia e vjetër",
+        "type": "(Oikonim)",
+        "description": "Ish-stacioni i policisë.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Prekop",
+        "type": "(Toponim Historik)",
+        "description": "Vend i vjetër.",
+        "location": "Lavdar"
+      },
+      {
+        "name": "Përroi i Gregut",
+        "type": "(Antroponim)",
+        "description": "Përroi i cili e ka marrë emrin nga grekët.",
+        "location": "Lavdar"
+      }
+    ],
+    "Q": [
+      {
+        "name": "Qoshka e Benit",
+        "type": "(Antroponim)",
+        "description": "Qoshka e Benit quhet e tillë sepse aty ndodhet shtëpia e Benit. Ky emërtim i është vendosur së fundmi vetëm nga disa banorë të Sovjanit, sepse shumica e njeh këtë vend si çezma e Xhezarit.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Qoshka e Danit",
+        "type": "(Antroponim)",
+        "description": "Qoshka e Danit quhet e tillë sepse në qoshe të lagjes ndodhet shtëpia e Danit, një i moshuar që dikur jetonte aty. Ai tani nuk jeton më, shtëpia e tij është dëmtuar, por ajo emërtohet ende si shtëpia e xha Danit.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Qymezi",
+        "type": "(Toponim historik)",
+        "description": "Ka qenë qymezi i kooperativës së pulave dhe prandaj e quajmë qymez.",
+        "location": "Voskop"
+      },
+      {
+        "name": "Qafa e Lagjit",
+        "type": "(Toponim Historik)",
+        "description": "Ishte e vetmja rrugë e madhe në të gjithë lagjjen e fshatit. Buzë kësaj rruge ishin vendosur edhe varrezat.",
+        "location": "Skënderbegas"
+      }
+    ],
+    "S": [
+      {
+        "name": "Sporti i vogël",
+        "type": "(Toponim Urban)",
+        "description": "Quhej kështu zona e një fushe të vogël ku qytëtarët organizonin ndeshje të sporteve të ndryshme si futbolli, basketbolli etj.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Sallgjasi",
+        "type": "(Oikonim)",
+        "description": "Në të njëjtën tokë ndodheshin 4-5 shtëpi shumë afër njëra-tjetrës, sepse Sallgjas domethënë afër.",
+        "location": "Voskop"
+      }
+    ],
+    "SH": [
+      {
+        "name": "Shavaret/Arat e Çakos",
+        "type": "(Toponim Hidro-orografik)",
+        "description": "Quhet kështu sepse është një zonë ku rriten kallma, barishte të dendura dhe shkurre.",
+        "location": "Lumalas"
+      },
+      {
+        "name": "Shpella e Gjermankës",
+        "type": "(Antroponim)",
+        "description": "Quhet kështu sepse kohë më përpara atje është strehuar një vajzë gjermane dhe ka marrë emrin e shtetit nga vinte.",
+        "location": "Zvezdë"
+      },
+      {
+        "name": "Shelgu i Kolës",
+        "type": "(Fitonim)(Antroponim)",
+        "description": "Shelgu i Kolës quhet i tillë sepse është i mbjellë nga Kolja (banor i fshatit), pranë shtëpisë së tij.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Shëndëllia",
+        "type": "(Toponim Hagiografik)",
+        "description": "Kishë në qytetin e Korçës.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Shën Maria",
+        "type": "(Toponim Hagiografik)",
+        "description": "Zona ka marrë emërtimin nga prezenca e një kishe të lashtë.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Sheshi i Lepurave",
+        "type": "(Toponim Natyror)",
+        "description": "Shesh i madh, i rrethuar nga pyll i dendur. Tek sheshi ngrinin çargje për kapjen e lepurave të egër. Sheshi është lëndinë me bar, që shërben për ushqimin e lepurave.",
+        "location": "Skënderbegas"
+      },
+      {
+        "name": "Shën Triadha",
+        "type": "(Toponim Hagiografik)",
+        "description": "Zona në varrezat e qytetit.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Sheshet e Shën Triadhës",
+        "type": "(Toponim Hagiografik)",
+        "description": "Emërtohen kështu sheshet që ndodhen afër Kishës së Shën Triadhës.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Shkoza",
+        "type": "(Toponim Natyror)",
+        "description": "Ndodhet mbi fshat. Quhet kështu nga pemët e ndryshme që ndodhen aty.",
+        "location": "Polenë"
+      },
+      {
+        "name": "Shtëpia e Oficerëve",
+        "type": "(Toponim Urban)",
+        "description": "Ish vendbanim i punonjësve me profesion oficera.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Shtëpia e Pionierit",
+        "type": "(Antroponim)",
+        "description": "Shtëpi ose vend ku zhvilloheshin aktivitete të ndryshme artistike.",
+        "location": "Korçë"
+      }
+    ],
+    "T": [
+      {
+        "name": "Torfa",
+        "type": "(Oronim)",
+        "description": "Torfa është një fushë shumë e madhe me një sipërfaqe të konsiderueshme, e cila ka përmbajtje njëqind për qind torfike. Ajo shërben si luadh dhe për kultivimin e panxharit, foragjeres, misrit, bimëve medicinale, hithrës etj.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Trasheja e Sovjanit",
+        "type": "(Oikonim)",
+        "description": "Përbëhet nga disa dhoma nëntokësore të cilat janë përdorur për strehim gjatë luftës nacionale çlirimtare duke shmangur sulmet.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Trekëndëshi",
+        "type": "(Toponim Gjeometrik)",
+        "description": "E ka marrë emrin nga forma e saj karakteristike gjeometrike, që ngjan me një trekëndësh, si rezultat i organizimit urban dhe kryqëzimit të tre rrugëve që formojnë këtë strukturë.",
+        "location": "Korçë"
+      },
+      {
+        "name": "Tuneli i Shkorrëtës",
+        "type": "(Toponim Historik)(Toponim Infrastrikturor)",
+        "description": "Tuneli i shkorretës është një tunel që është ndërtuar dhe ka shërbyer në kohën e regjimit komunist për mbrojtjen e fshatarëve nga sulmet. Është i Shkorretës sepse ndodhet afër malit Marjan në një zonë me shkurre.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Tumat e Sovjanit",
+        "type": "(Toponim Historik)",
+        "description": "Varreza të lashta që janë përdorur për njerëz parahistorik.",
+        "location": "Sovjan"
+      }
+    ],
+    "TH": [
+      {
+        "name": "Thertorja e Metos",
+        "type": "(Antroponim)",
+        "description": "Një vend ku bëhej therja e kafshëve për prodhimin e mishit, ishte një thertore e vogël e drejtuar nga pronari i cili quhet Meto.",
+        "location": "Bulgarec"
+      }
+    ],
+    "U": [
+      {
+        "name": "Ura e çobenëve",
+        "type": "(Antroponim)",
+        "description": "Vendi ku ishin ndërtuar kasollet e cobeneve që kullosnin bagëtitë në këtë zonë.",
+        "location": "Voskop"
+      },
+      {
+        "name": "Ura e lamtumirës",
+        "type": "(Toponim historik)",
+        "description": "Emri lidhet me historikun e kësaj ure ku jepej lamtumira e fundit. Pas kësaj ure ndodhen varrezat.",
+        "location": "Bulgarec"
+      },
+      {
+        "name": "Ura e Madhe",
+        "type": "(Toponim Antonimik)",
+        "description": "Ka shërbyer dhe vazhdon ende të lidhë fshatin Sovjan me fshatra të tjerë si: Zvirina, Sheqerasi, Drithasi etj.",
+        "location": "Sovjan"
+      },
+      {
+        "name": "Ura e Tankut",
+        "type": "(Toponim Historik)",
+        "description": "Quhet kështu, sepse është ndërtuar shumë vite më parë për të ndihmuar në qarkullimin e tankeve edhe pse kjo nuk ndodhi. Sipas banorëve të moshuar të Sovjanit.",
+        "location": "Sovjan"
+      }
+    ],
+    "V": [
+      {
+        "name": "Vërriu",
+        "type": "(Toponim Fitonim)",
+        "description": "Quhet kështu sepse në këtë zonë rritet një lloj lisi i quajtur Vërri.",
+        "location": "Lumalas"
+      },
+      {
+        "name": "Varret e francezëve",
+        "type": "(Antroponim)",
+        "description": "Vend përkujtimor i ndërtuar në vitin 1938, ku prehen trupat e 640 ushtarëve francezë të rënë gjatë Luftës së parë Botërore.",
+        "location": "Korçë"
+      }
+    ],
+  
+      "XH": [
+        {
+            "name": "Xhamia Iljaz Bej Mirahori",
+            "type": "(Toponim Historik)(Toponim Fetar)",
+            "description": "Kjo Xhami mban emrin e themeluesit të saj Iljaz bej Mirahori, i cili ishte një figurë e rëndësishme e Perandorisë Osmane dhe kontribuoi në ndërtimin e saj. \"Mirahor\" ishte një titull që i jepej një funksionari të lartë përgjegjës për stallat mbretërore osmane.",
+            "location": "Korçë"
+          },
+          {
+            "name": "Xhadeja e vjetër",
+            "type": "(Toponim Infrastrukturor)",
+            "description": "Kjo rrugë është pjesë e mbetur e një rruge që lidhte fshatin me qytetin e Korçës. Emri \"e vjetër\" tregon që tashmë është e zëvendësuar nga një rrugë me infrastrukturë të re.",
+            "location": "Bulgarec"
+          },
+          {
+            "name": "Xhamia e vjetër",
+            "type": "(Toponim Historik)(Toponim Fetar)",
+            "description": "Një ndërtesë fetare që është përdorur dhe përdoret për lutje, ka një vlerë historike dhe kulturore.",
+            "location": "Bulgarec"
+          }
+      ]
+    }
+  }

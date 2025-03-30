@@ -1,0 +1,159 @@
+/* Base Styles */
+.city-slider {
+    margin: 3rem auto;
+    max-width: 1200px;
+    padding: 0 1rem;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 3rem;
+}
+
+.city-slider:last-child {
+    border-bottom: none;
+    padding-bottom: 1rem;
+}
+
+.slider-container {
+    position: relative;
+    margin: 0 auto;
+}
+
+.slider-track {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    gap: 0.5rem;
+    padding: 1rem 0;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.slider-track::-webkit-scrollbar {
+    display: none;
+}
+
+/* Slides */
+.slide {
+    flex: 0 0 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.slide img,
+.slide video {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 6px;
+    aspect-ratio: 16/9;
+}
+
+/* Navigation Arrows */
+.slider-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(52, 152, 219, 0.9);
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0.8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.slider-arrow:hover {
+    opacity: 1;
+    background: #2980b9;
+}
+
+.slider-arrow.prev {
+    left: 1rem;
+}
+
+.slider-arrow.next {
+    right: 1rem;
+}
+
+/* Typography */
+.page-title {
+    font-size: 2rem;
+    text-align: center;
+    margin: 2rem 1rem;
+    color: #2c3e50;
+}
+
+.city-title {
+    font-size: 1.5rem;
+    margin: 1.5rem 0;
+    padding-bottom: 0.5rem;
+    color: #34495e;
+    position: relative;
+}
+
+.city-title::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 50px;
+    height: 2px;
+    background: #3498db;
+}
+
+/* Responsive Adjustments */
+@media (min-width: 576px) {
+    .slide {
+        flex: 0 0 calc(50% - 0.5rem);
+    }
+    
+    .slide img,
+    .slide video {
+        max-height: 350px;
+    }
+    
+    .city-title {
+        font-size: 1.6rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .slide {
+        flex: 0 0 calc(33.333% - 0.5rem);
+    }
+    
+    .slider-arrow {
+        width: 45px;
+        height: 45px;
+    }
+    
+    .page-title {
+        font-size: 2.5rem;
+    }
+    
+    .city-title {
+        font-size: 1.75rem;
+    }
+    
+    .slide img,
+    .slide video {
+        max-height: 400px;
+    }
+}
+
+@media (min-width: 992px) {
+    .slide {
+        flex: 0 0 calc(25% - 0.75rem);
+    }
+    
+    .city-slider {
+        margin: 4rem auto;
+    }
+}

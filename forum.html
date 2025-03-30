@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forum</title>
+    <link rel="stylesheet" href="style.css">
+  <!-- Add to your existing head section -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <a href="index.html" class="navbar-brand">
+                <span class="brand-main">Fjalori</span>
+                <span class="brand-sub">i Toponimeve</span>
+            </a>
+            <button class="menu-toggle">☰</button>
+            <ul class="navbar-menu">
+                <li><a href="index.html">Fjalori</a></li>
+                <li><a href="imazhe.html">Imazhe</a></li>
+                <li><a href="forum.html" class="active">Forum</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <h1 class="page-title">Forumi</h1>
+        
+        <form id="forumForm">
+            <input type="text" id="postTitle" placeholder="Titulli" required>
+            <textarea id="postContent" placeholder="Përmbajtja..." rows="4" required></textarea>
+            <button type="submit">Posto</button>
+        </form>
+        
+        <div id="forumPosts">
+            <!-- Posts will appear here -->
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+
+
+    <!-- Add this right before  -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Shfletoni</h4>
+                <ul class="footer-links">
+                    <li><a href="index.html">Fjalori</a></li>
+                    <li><a href="imazhe.html">Galeria</a></li>
+                    <li><a href="forum.html">Forumi</a></li>
+                    <li><a href="#">Arkiva</a></li>
+                </ul>
+            </div>
+    
+            <div class="footer-section">
+                <h4>Kontakt</h4>
+                <div class="contact-info">
+                    <p><i class="fas fa-map-marker-alt"></i> Korçë, Albania</p>
+                    <p><i class="fas fa-envelope"></i> kontakt@toponimeve.al</p>
+                </div>
+            </div>
+    
+            <div class="footer-section">
+                <h4>Projekti</h4>
+                <p class="project-info">Një platformë digjitale për ruajtjen e trashëgimisë toponimike të qytetit tonë.</p>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; 2025 Fjalori i Toponimeve<br>Krijuar me <i class="fas fa-heart"></i> për Korçën</p>
+        </div>
+    </footer>
+</body>
+</html>
